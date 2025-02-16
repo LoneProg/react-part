@@ -1,4 +1,4 @@
-import React from 'react';
+
 
 const Navbar = () => {
     return (
@@ -11,6 +11,7 @@ const Navbar = () => {
                     <a href="#services">Services</a>
                     <a href="#projects">Projects</a>
                     <a href="#contact">Contacts</a>
+                    <button>Connect with me</button>
                 </div>
             </div>
         </div>
